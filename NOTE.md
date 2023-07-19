@@ -1,0 +1,1 @@
+- Section2 , lesson4 で bs58 が node_modules/@thirdweb-dev/sdk/node_modules/　以下に無いと言われたので、コピーして移動させた 
